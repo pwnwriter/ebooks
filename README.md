@@ -6,12 +6,6 @@ This project exists thanks to all the people who contribute.
 
 
 
-
-
-## :trident: &nbsp;The Book of Secret Knowledge (Chapters)
-
-#### CLI Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
-
 ##### :black_small_square: Shells
 
 <p>
