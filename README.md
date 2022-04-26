@@ -5,7 +5,6 @@
 This project exists thanks to all the people who contribute.
 
 
-
 ##### :black_small_square: Shells
 
 <p>
