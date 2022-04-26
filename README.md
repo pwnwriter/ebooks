@@ -11,7 +11,8 @@ This project exists thanks to all the people who contribute.
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.gnu.org/software/bash/"><b>GNU Bash</b></a> - is an sh-compatible shell that incorporates useful features from the Korn shell and C shell.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.zsh.org/"><b>Zsh</b></a> - is a shell designed for interactive use, although it is also a powerful scripting language.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://ohmyz.sh/"><b>Oh My ZSH!</b></a> - is the best framework for managing your Zsh configuration.<br>
-##### :black_small_square: Shell plugins
+</p>
+  ##### :black_small_square: Shell plugins
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/junegunn/fzf"><b>fzf</b></a> - is a general-purpose command-line fuzzy finder.<br>
