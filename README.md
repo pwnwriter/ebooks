@@ -1,5 +1,5 @@
 <h6 align="center"><img src="https://raw.githubusercontent.com/pwnwriter/files/main/ebooks/book-logo.png" alt="logo" height="100px"> <br>
-<img src="https://readme-typing-svg.demolab.com/?lines=pwnwriter's personal library.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=pwnwriter's book collection.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </h6>
 
 <div align="center" markdown="1">
